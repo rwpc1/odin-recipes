@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 100px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  height: 200px;
+}
+
+.pizza,
+.burger,
+.sushi {
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+}
